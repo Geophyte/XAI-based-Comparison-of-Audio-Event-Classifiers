@@ -1,7 +1,24 @@
 # XAI-based-Comparison-of-Audio-Event-Classifiers
 Implementacja i ewaluacja artykułu [XAI-based Comparison of Audio Event Classifiers with different Input Representations](https://dl.acm.org/doi/fullHtml/10.1145/3617233.3617265)
+
+## Harmonogram
+Tygodniowy harmonogram przebiegu rpojektu:
+
+04.11.2024 Konfiguracja środowiska, zapoznanie się z datasetem i bibliografią
+
+11.11.2024 Eksploracja i obróbka danych, skrypty wizualizacji
+
+18.11.2024 Implementacja i testy DCNN
+
+25.11.2024 Implementacja i testy YAMNet
+
+02.12.2024 Wdrożernie LRP, DFT-LRP i wskaźników do porównań
+
+09.12.2024 Odtworzenie eksperymentu i prace nad potencjalnymi błędami
+
 ## Użyteczne linki
 * [YAMNet](https://github.com/tensorflow/models/tree/master/research/audioset/yamnet)
+
 ## Bibliografia
 * [XAI-based Comparison of Audio Event Classifiers with different Input Representations](https://dl.acm.org/doi/fullHtml/10.1145/3617233.3617265)
 * [AudioMNIST: Exploring Explainable Artificial Intelligence for audio analysis on a simple benchmark](https://www.sciencedirect.com/science/article/pii/S0016003223007536)
